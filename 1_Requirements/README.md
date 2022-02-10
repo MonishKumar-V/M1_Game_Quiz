@@ -12,3 +12,29 @@ Low Level Requirements:
 > A Dataset of questions related to various topics to read the knowledge of users across the topics.
 
 > Various Catchphares and reward points are used to make the quizz more fun to the users. 
+
+
+
+4 W's and 1 H:
+
+Who:
+
+Everyone can use this quizz game to test their knowledge.
+
+What:
+
+This application is a set of quizz questions in the form of a game to make it fun.
+
+When:
+
+It can be used whenever we feel like using it.
+
+Where:
+
+It can be accessed using any C compiler.
+
+How:
+
+C language is used for implementation.
+
+
