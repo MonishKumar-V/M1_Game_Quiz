@@ -19,22 +19,22 @@ Low Level Requirements:
 
 Who:
 
-Everyone can use this quizz game to test their knowledge.
+> Everyone can use this quizz game to test their knowledge.
 
 What:
 
-This application is a set of quizz questions in the form of a game to make it fun.
+> This application is a set of quizz questions in the form of a game to make it fun.
 
 When:
 
-It can be used whenever we feel like using it.
+> It can be used whenever we feel like using it.
 
 Where:
 
-It can be accessed using any C compiler.
+> It can be accessed using any C compiler.
 
 How:
 
-C language is used for implementation.
+> C language is used for implementation.
 
 
