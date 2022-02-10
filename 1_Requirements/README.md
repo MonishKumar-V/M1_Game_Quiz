@@ -42,3 +42,15 @@ How:
 > C language is used for implementation.
 
 
+
+SWOT Analysis :
+
+> Strengh: Users get to know things and can test their Knowledge.
+
+> Weakness: It has only a finite number of questions.
+
+> Opportunities: It opens up career opportunities for the users.
+
+> Threats: Errors and Invalid answers.
+
+
