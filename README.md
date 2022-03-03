@@ -1,6 +1,6 @@
 # Quizz_Game
 
-Quick Intro
+## Quick Intro
 
 > It is a Game Application to test our Knowledge about things and stuff.
 > This game is filled with a finite set of questions related to various topics.
