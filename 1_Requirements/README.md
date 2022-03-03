@@ -1,13 +1,13 @@
 
-Requirements:
+## Requirements:
 
-High Level Requirements:
+## High Level Requirements:
 
 > Reading User's Knowledge and Skills
 
 > To make the Game 'Fun' for the users.
 
-Low Level Requirements:
+## Low Level Requirements:
 
 > A Dataset of questions related to various topics to read the knowledge of users across the topics.
 
@@ -19,31 +19,31 @@ Low Level Requirements:
 
 
 
-4 W's and 1 H:
+## 4 W's and 1 H:
 
-Who:
+## Who:
 
 > Everyone can use this quizz game to test their knowledge.
 
-What:
+## What:
 
 > This application is a set of quizz questions in the form of a game to make it fun.
 
-When:
+## When:
 
 > It can be used whenever we feel like using it.
 
-Where:
+## Where:
 
 > It can be accessed using any C compiler.
 
-How:
+## How:
 
 > C language is used for implementation.
 
 
 
-SWOT Analysis :
+## SWOT Analysis :
 
 > Strengh: Users get to know things and can test their Knowledge.
 
